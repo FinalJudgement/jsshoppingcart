@@ -97,7 +97,7 @@ body {
 }
 
 .main-footer {
-  background-color: #56ccf2;
+  background-color: #462058;
   color: white;
   padding: 0.25em 0;
 }
@@ -131,7 +131,7 @@ body {
 .btn-header {
   margin: 0.5em 15% 2em 15%;
   color: white;
-  border: 2px solid #2d9cdb;
+  border: 2px solid #793797;
   background-color: rgba(255, 255, 255, 0.1);
   border-radius: 0;
   font-size: 1.5em;
@@ -147,7 +147,7 @@ body {
 .btn-play {
   display: block;
   margin: 0 auto;
-  color: #2d9cdb;
+  color: #793797;
   font-size: 4em;
   border-radius: 50%;
   padding: 0;
