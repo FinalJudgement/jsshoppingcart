@@ -52,9 +52,11 @@ body {
 
 .main-header {
   background-color: rgba(0, 0, 0, 0.6);
-  background-image: url("images/Header\ Background.jpg");
+  background-image: url("images/newyorkcity.jpg");
   background-blend-mode: multiply;
+  background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   padding-bottom: 30px;
 }
 
