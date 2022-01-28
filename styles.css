@@ -51,8 +51,8 @@ body {
 }
 
 .main-header {
-  background-color: rgba(0, 0, 0, 0.6);
-  background-image: url("images/newyorkcity.jpg");
+  background-color: rgba(0, 0, 0, 0.3);
+  background-image: url("images/bannerimage.jpg");
   background-blend-mode: multiply;
   background-repeat: no-repeat;
   background-size: cover;
